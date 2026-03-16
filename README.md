@@ -1,0 +1,2 @@
+# E-commerce-Sales-Analysis-of-JioMart-Swiggy-Instamart-and-Blinkit-Using-Python
+This project analyzes e-commerce sales data to identify sales trends, customer purchasing behavior, and product performance. The analysis was performed using Python in a Jupyter Notebook environment. Data cleaning, processing, and analysis were conducted using Python libraries to generate insights that can support business decisions.
